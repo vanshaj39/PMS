@@ -93,3 +93,21 @@ textarea::-webkit-scrollbar {
     text-align: center;
     margin-top: 4%;
 }
+
+.social{
+    margin-left: 8%;
+    margin-top: 100px;
+    position: realtive;
+    top: 20px;
+}
+
+.social a{
+    font-size: 30px;
+    color: #212121;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+
+.social a:hover{
+    color: orange;
+}
